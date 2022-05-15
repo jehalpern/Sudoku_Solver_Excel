@@ -1,0 +1,7 @@
+Pull values from: block, row, column, whole workbook
+
+Identify empty cells
+
+Identify how many numbers the cell could be
+
+If cell possibility = 1, fill in cell, else move to next cell
